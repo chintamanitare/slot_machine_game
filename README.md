@@ -25,7 +25,7 @@ This project is great for beginners who want to learn about Python basics such a
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/chintamanitare/slot-machine-game.git
-cd slot-machine-game
+git clone https://github.com/chintamanitare/slot_machine_game.git
+cd slot_machine_game
 
 
